@@ -1,0 +1,6 @@
+interface:
+  display_name: "创新创业竞赛助手"
+  short_description: "面向大创、挑战杯和创新创业大赛的全流程材料与答辩助手"
+  default_prompt: "Use $innovation-competition to turn my project evidence into a competition-ready plan, pitch deck, financial model, and defense package."
+policy:
+  allow_implicit_invocation: true
