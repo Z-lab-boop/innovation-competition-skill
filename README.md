@@ -17,7 +17,7 @@
 将仓库克隆到 Codex Skills 目录：
 
 ```bash
-git clone <repository-url> ~/.codex/skills/innovation-competition
+git clone https://github.com/Z-lab-boop/innovation-competition-skill.git ~/.codex/skills/innovation-competition
 ```
 
 重新启动或刷新 Codex 后，即可通过 `$innovation-competition` 明确调用；在匹配的竞赛材料任务中也允许自动触发。
